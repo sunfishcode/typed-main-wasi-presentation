@@ -1,0 +1,6 @@
+[book]
+authors = ["Dan Gohman"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Typed Main for WASI"
